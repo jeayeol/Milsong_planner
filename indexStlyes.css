@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(45deg, pink, violet);
+    margin-left: 50px;
+    width: 600px;
+    border-right: 1px solid black;
+    font: 20px "HY견고딕"
+
+}
+
+#years {
+    font: 30px "Centaur";
+
+}
+
+#milsong {
+    font: 80px "Centaur";
+}
+
+a {
+    font: 40px "HY견고딕";
+    text-decoration: none;
+    color: black;
+}
+
+#link {
+    margin: 30px;
+    margin-left: 50px;
+}
+
+#main {
+    width: 600px;
+    border-right: 1px solid black;
+    
+    
+}
+
+#grid {
+    display: grid;
+    grid-template-rows: 500px minmax(0px, auto);
+}
